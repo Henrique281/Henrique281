@@ -35,4 +35,3 @@
 </div>
 
 ###
-![snake gif](https://github.com/Henrique281/Henrique281/blob/output/github-contribution-grid-snake-dark.svg)
