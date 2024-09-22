@@ -35,4 +35,4 @@
 </div>
 
 ###
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Henrique281/Henrique281/blob/output/github-contribution-grid-snake-dark.svg)
