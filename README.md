@@ -19,11 +19,6 @@
 <h2>🌐 Socials:</h2>
 
 <div>
-  <a href="SEU_LINK_LINKEDIN">
+  <a href="linkedin.com/in/henrique-freitas-07b846249">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="SEU_LINK_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
