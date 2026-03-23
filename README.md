@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=false&vCenter=false&width=1000&lines=Hello+World!;I'm+Henrique+Freitas;Backend+Developer+in+Progress)](https://github.com/henrique281)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=false&vCenter=false&width=1000&lines=Hello+World!;I'm+Henrique+Freitas;Database+%26+Information+Security+Enthusiast)](https://github.com/henrique281)
 
 ---
 
