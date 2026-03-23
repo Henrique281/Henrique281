@@ -31,3 +31,7 @@
   <a href="linkedin.com/in/henrique-freitas-07b846249">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="https://www.instagram.com/h_freitasreis/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
