@@ -16,6 +16,15 @@
 
 ---
 
+<div>
+  <h2>🐧 Linux Distributions:</h2>
+
+  <img align="center" alt="Linux Mint" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" />
+  <img align="center" alt="Fedora" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
+</div>
+
+---
+
 <h2>🌐 Socials:</h2>
 
 <div>
